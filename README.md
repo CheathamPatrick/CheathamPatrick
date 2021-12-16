@@ -1,11 +1,6 @@
-<!---
-- 👋 Hi, I’m @CheathamPatrick
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
-<!---
-CheathamPatrick/CheathamPatrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# WELCOME TO MY SOFTWARE ENGINEER GITHUB ACCOUNT
+- 👋 Hi, I’m @CheathamPatrick -- summary about me and my projects rests on the websites: https://talon38.com -- https://autumnflaw.com -- and https://patrickcheatham.myportfolio.com.
+- 👀 Patrick L. Cheatham is a retired U.S. Air Force Captain, a Master of Science in Aeronautical Engineering, and is presently a self-employed solopreneur, as Media Artist for Talon 38 Personal Media Single Member Limited Liability Company (SM-LLC). Patrick’s personally valued and enjoyed activities are quite varied, yet nearly all coalesce in some manner, and at some time phases, with heavy desktop personal internet client computer usage, and with continual self-invested sense of eventual delivery of authored media to others for their enjoyment, empowerment, or valued utility. Patrick remains responsible to his officer oath of office, as do all retirees. He possesses the U.S. Air Force Research and Development badge, and the U.S Air Force Pilot badge, from service as an airframe-propulsion integration engineer, and as an F-15E evaluator pilot (flight examiner).
+- 🌱 I’m currently learning C# 10 more thoroughly and adeptly; Agile methodology; Universal Windows Platform docs, elements, methods, and ways; Git revision control savvy; and HTML and CSS in-depth expertise as advanced
+- 💞️ I’m looking to collaborate on new languages invented using XML to embody digital music file companion information, such as artist bio, history, lyrics, promotional images, and in a manner that newer updated files can blend with earlier files in case of newer files not covering earlier released information
+- 📫 Inquirers can contact me at cheathampatrick@talon38.com personally. I am also contactable at cheathampatrick@outlook.com
