@@ -1,6 +1,9 @@
-# WELCOME TO MY SOFTWARE ENGINEER GITHUB ACCOUNT
-- 👋 Hi, I’m @CheathamPatrick -- summary about me and my projects rests on the websites: https://talon38.com -- https://autumnflaw.com -- and https://patrickcheatham.myportfolio.com.
-- 👀 Patrick L. Cheatham is a retired U.S. Air Force Captain, a Master of Science in Aeronautical Engineering, and is presently a self-employed solopreneur, as Media Artist for Talon 38 Personal Media Single Member Limited Liability Company (SM-LLC). Patrick’s personally valued and enjoyed activities are quite varied, yet nearly all coalesce in some manner, and at some time phases, with heavy desktop personal internet client computer usage, and with continual self-invested sense of eventual delivery of authored media to others for their enjoyment, empowerment, or valued utility. Patrick remains responsible to his officer oath of office, as do all retirees. He possesses the U.S. Air Force Research and Development badge, and the U.S Air Force Pilot badge, from service as an airframe-propulsion integration engineer, and as an F-15E evaluator pilot (flight examiner).
-- 🌱 I’m currently learning C# 10 more thoroughly and adeptly; Agile methodology; Universal Windows Platform docs, elements, methods, and ways; Git revision control savvy; and HTML and CSS in-depth expertise as advanced
-- 💞️ I’m looking to collaborate on new languages invented using XML to embody digital music file companion information, such as artist bio, history, lyrics, promotional images, and in a manner that newer updated files can blend with earlier files in case of newer files not covering earlier released information
-- 📫 Inquirers can contact me at cheathampatrick@talon38.com personally. I am also contactable at cheathampatrick@outlook.com
+Thrush 56 is my Design, Arts, Arrangement, Photo, Video, and Production company. I am Patrick Lee Cheatham, pensioned U.S. Air Force Captain, after early departure from uniformed operations due to fortification of much of our U.S. food and beverage offerings.
+
+I develop apps for latter versions of Windows.
+
+I produce music as Entropic Front (Patrick Lee Cheatham) is an early 21st century symphonic style electronic music project. Bracing staccato and marcato instrumental electronica songs are haphazardly drawn visually, and even off segments are tweaked to harness oddities, as much as possible. Tonal aspects contrast from the stale to the enjoyable, in living, and elicit a range of alternating dour and uplifting demeanors of sound, or blend the two counterpoised opposite casts concurrently. I host a monthly to quarterly podcast on music theory and impact.
+
+I invest sometimes at photography stints, and submit my best photos to Adobe Stock agency.
+
+I write on societal trends of alarm.
